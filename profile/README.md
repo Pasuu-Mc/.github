@@ -2,7 +2,7 @@
 
 未玩
 
-[![ATM7-Sky](https://img.shields.io/badge/CurseForge-AlltheMods7%20TotheSky%201.18.2-B54786)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)>>>>汉化文件[![ATM7-Sky](https://img.shields.io/badge/GitHub-AlltheMods7%20TotheSky%201.2.2-B54786)](https://github.com/Pasuu-Mc/ATM7-Sky-quest-CN/releases)
+[![ATM7-Sky](https://img.shields.io/badge/CurseForge-AlltheMods7%20TotheSky%201.18.2-9F5F9F)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)>>>>汉化文件[![ATM7-Sky](https://img.shields.io/badge/GitHub-AlltheMods7%20TotheSky%201.2.2-9F5F9F)](https://github.com/Pasuu-Mc/ATM7-Sky-quest-CN/releases)
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -25,13 +25,13 @@
 [![ATM3E](https://img.shields.io/badge/Curseforge%20ATM3E%201.2.2-f80)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-3-expert)  ｜CFPA汉化组
 
 
-[![Calculator-skies](https://img.shields.io/badge/Curseforge%20Calculator%20skies%201.2.2-f80)](https://www.curseforge.com/minecraft/modpacks/calculator-skies) ｜安逸菌汉化组
+[![Calculator-skies](https://img.shields.io/badge/Curseforge%20Calculator%20skies%201.2.2-f03c15)](https://www.curseforge.com/minecraft/modpacks/calculator-skies) ｜安逸菌汉化组
 
 
-[![Project-ozone-3-a-new-way-forward](https://img.shields.io/badge/Curseforge%20臭氧3%201.2.2-f80)](https://www.curseforge.com/minecraft/modpacks/project-ozone-3-a-new-way-forward) ｜无汉化
-[![equivalent-skies](https://img.shields.io/badge/Curseforge%20等价空岛%201.2.2-f80)](https://www.curseforge.com/minecraft/modpacks/equivalent-skies) ｜无汉化
-[![ragnamod-v](https://img.shields.io/badge/Curseforge%20诸神黄昏5%201.2.2-f80)](https://www.curseforge.com/minecraft/modpacks/ragnamod-v) ｜无汉化
-[![AMP-Sky of Diamonds!](https://img.shields.io/badge/Curseforge%20AMP%20钻石空岛%201.2.2-f80)](https://www.curseforge.com/minecraft/modpacks/awakening-sky-of-diamonds) ｜无汉化
+[![Project-ozone-3-a-new-way-forward](https://img.shields.io/badge/Curseforge%20臭氧3%201.2.2-545454)](https://www.curseforge.com/minecraft/modpacks/project-ozone-3-a-new-way-forward) ｜无汉化
+[![equivalent-skies](https://img.shields.io/badge/Curseforge%20等价空岛%201.2.2-545454)](https://www.curseforge.com/minecraft/modpacks/equivalent-skies) ｜无汉化
+[![ragnamod-v](https://img.shields.io/badge/Curseforge%20诸神黄昏5%201.2.2-545454)](https://www.curseforge.com/minecraft/modpacks/ragnamod-v) ｜无汉化
+[![AMP-Sky of Diamonds!](https://img.shields.io/badge/Curseforge%20AMP%20钻石空岛%201.2.2-545454)](https://www.curseforge.com/minecraft/modpacks/awakening-sky-of-diamonds) ｜无汉化
 
 
 ---------------------------------------------------------------------------------------------------------------
