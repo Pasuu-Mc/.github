@@ -1,4 +1,8 @@
-## 个人汉化使用
+## 个人汉化使用 
+
+###### ![#FFF0F5](https://via.placeholder.com/15/9370DB/000000?text=+) `如果您无意中访问了此网站，你可以下载任意汉化文件使用，但请不要告诉任何人，谢谢`
+---------------------------------------------------------------------------------------------------------------
+
 
 未玩
 
@@ -19,20 +23,20 @@
 
 已玩
     
-[![CF-FTB-stoneblock2](https://img.shields.io/badge/CF%20FTB%20石头世界2%201.2.2-f80)](https://www.curseforge.com/minecraft/modpacks/ftb-presents-stoneblock-2)｜CFPA汉化组
-[![CF-FTB-stoneblock1](https://img.shields.io/badge/CF%20FTB%20石头世界1%201.2.2-f80)](https://www.curseforge.com/minecraft/modpacks/stoneblock)  ｜CFPA汉化组  
-[![E2E](https://img.shields.io/badge/Curseforge%20E2E%201.2.2-f80)](https://www.curseforge.com/minecraft/modpacks/enigmatica2expert)  ｜CFPA汉化组
-[![ATM3E](https://img.shields.io/badge/Curseforge%20ATM3E%201.2.2-f80)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-3-expert)  ｜CFPA汉化组
+[![CF-FTB-stoneblock2](https://img.shields.io/badge/CF%20FTB%20石头世界2%201.12.2-f80)](https://www.curseforge.com/minecraft/modpacks/ftb-presents-stoneblock-2)｜CFPA汉化组
+[![CF-FTB-stoneblock1](https://img.shields.io/badge/CF%20FTB%20石头世界1%201.12.2-f80)](https://www.curseforge.com/minecraft/modpacks/stoneblock)  ｜CFPA汉化组  
+[![E2E](https://img.shields.io/badge/Curseforge%20E2E%201.12.2-f80)](https://www.curseforge.com/minecraft/modpacks/enigmatica2expert)  ｜CFPA汉化组
+[![ATM3E](https://img.shields.io/badge/Curseforge%20ATM3E%201.12.2-f80)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-3-expert)  ｜CFPA汉化组
 
 
-[![Calculator-skies](https://img.shields.io/badge/Curseforge%20Calculator%20skies%201.2.2-f03c15)](https://www.curseforge.com/minecraft/modpacks/calculator-skies) ｜安逸菌汉化组
+[![Calculator-skies](https://img.shields.io/badge/Curseforge%20Calculator%20skies%201.12.2-f03c15)](https://www.curseforge.com/minecraft/modpacks/calculator-skies) ｜安逸菌汉化组
 
 
-[![Project-ozone-3-a-new-way-forward](https://img.shields.io/badge/Curseforge%20臭氧3%201.2.2-545454)](https://www.curseforge.com/minecraft/modpacks/project-ozone-3-a-new-way-forward)｜无汉化
-[![equivalent-skies](https://img.shields.io/badge/Curseforge%20等价空岛%201.2.2-545454)](https://www.curseforge.com/minecraft/modpacks/equivalent-skies)｜无汉化
+[![Project-ozone-3-a-new-way-forward](https://img.shields.io/badge/Curseforge%20臭氧3%201.12.2-545454)](https://www.curseforge.com/minecraft/modpacks/project-ozone-3-a-new-way-forward)｜无汉化
+[![equivalent-skies](https://img.shields.io/badge/Curseforge%20等价空岛%201.12.2-545454)](https://www.curseforge.com/minecraft/modpacks/equivalent-skies)｜无汉化
 
-[![ragnamod-v](https://img.shields.io/badge/Curseforge%20诸神黄昏5%201.2.2-545454)](https://www.curseforge.com/minecraft/modpacks/ragnamod-v)｜无汉化
-[![AMP-Sky of Diamonds!](https://img.shields.io/badge/Curseforge%20AMP%20钻石空岛%201.2.2-545454)](https://www.curseforge.com/minecraft/modpacks/awakening-sky-of-diamonds)｜无汉化
+[![ragnamod-v](https://img.shields.io/badge/Curseforge%20诸神黄昏5%201.12.2-545454)](https://www.curseforge.com/minecraft/modpacks/ragnamod-v)｜无汉化
+[![AMP-Sky of Diamonds!](https://img.shields.io/badge/Curseforge%20AMP%20钻石空岛%201.12.2-545454)](https://www.curseforge.com/minecraft/modpacks/awakening-sky-of-diamonds)｜无汉化
 
 
 ---------------------------------------------------------------------------------------------------------------
