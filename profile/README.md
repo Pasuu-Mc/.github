@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------
 
 
-未玩
+#### 未玩
 
 [![ATM7-Sky](https://img.shields.io/badge/CurseForge-AlltheMods7%20TotheSky%201.18.2-9F5F9F)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)>>>>汉化文件[![ATM7-Sky](https://img.shields.io/badge/GitHub-AlltheMods7%20TotheSky%201.2.2-9F5F9F)](https://github.com/Pasuu-Mc/ATM7-Sky-quest-CN/releases)
 
@@ -13,7 +13,7 @@
 
 
 
-正在玩
+#### 正在玩
 
 [![Chroma-sky-2](https://img.shields.io/badge/CurseForge-Chroma%20Sky2%201.16.5-T6452)](https://www.curseforge.com/minecraft/modpacks/chroma-sky-2)>>>>汉化文件[![Chroma-sky-2](https://img.shields.io/badge/GitHub-Chroma%20Sky2%201.0.9-T6452)](https://github.com/Pasuu-Mc/Chroma-sky-2-quest-CN) ----未公开
 
@@ -21,7 +21,7 @@
 ---------------------------------------------------------------------------------------------------------------
 
 
-已玩
+#### 已玩
     
 [![CF-FTB-stoneblock2](https://img.shields.io/badge/CF%20FTB%20石头世界2%201.12.2-f80)](https://www.curseforge.com/minecraft/modpacks/ftb-presents-stoneblock-2)｜CFPA汉化组
 [![CF-FTB-stoneblock1](https://img.shields.io/badge/CF%20FTB%20石头世界1%201.12.2-f80)](https://www.curseforge.com/minecraft/modpacks/stoneblock)  ｜CFPA汉化组  
