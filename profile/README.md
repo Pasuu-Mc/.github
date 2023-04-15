@@ -15,7 +15,7 @@
 
 正在玩
 
-[![Chroma-sky-2](https://img.shields.io/badge/CurseForge-Chroma%20Sky2%201.16.5-T6452)](https://www.curseforge.com/minecraft/modpacks/chroma-sky-2)>>>>汉化文件[![Chroma-sky-2](https://img.shields.io/badge/GitHub-Chroma%20Sky2%201.0.9-T6452)](https://github.com/Pasuu-Mc/Chroma-sky-2-quest-CN)
+[![Chroma-sky-2](https://img.shields.io/badge/CurseForge-Chroma%20Sky2%201.16.5-T6452)](https://www.curseforge.com/minecraft/modpacks/chroma-sky-2)>>>>汉化文件[![Chroma-sky-2](https://img.shields.io/badge/GitHub-Chroma%20Sky2%201.0.9-T6452)](https://github.com/Pasuu-Mc/Chroma-sky-2-quest-CN) ----未公开
 
 
 ---------------------------------------------------------------------------------------------------------------
