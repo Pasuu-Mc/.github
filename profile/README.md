@@ -6,7 +6,7 @@
 
 #### 未玩
 
-[![ATM7-Sky](https://img.shields.io/badge/CurseForge-AlltheMods7%20TotheSky%201.18.2-9F5F9F)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)>>>>汉化文件[![ATM7-Sky](https://img.shields.io/badge/GitHub-AlltheMods7%20TotheSky%201.2.2-9F5F9F)](https://github.com/Pasuu-Mc/ATM7-Sky-quest-CN/releases)
+[![ATM7-Sky](https://img.shields.io/badge/CurseForge-AlltheMods7%20TotheSky%201.18.2-9F5F9F)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)>>>>汉化文件[![ATM7-Sky](https://img.shields.io/badge/GitHub-AlltheMods7%20TotheSky%201.2.3-9F5F9F)](https://github.com/Pasuu-Mc/ATM7-Sky-quest-CN/releases)
 
 ---------------------------------------------------------------------------------------------------------------
 
