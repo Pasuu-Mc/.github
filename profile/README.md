@@ -6,9 +6,9 @@
 
 #### 未玩
 
-[![ATM7-Sky](https://img.shields.io/badge/CurseForge-AlltheMods7%20TotheSky%201.18.2-9F5F9F)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)>>>>汉化文件[![ATM7-Sky](https://img.shields.io/badge/GitHub-AlltheMods7%20TotheSky%201.2.3-9F5F9F)](https://github.com/Pasuu-Mc/ATM7-Sky-quest-CN/releases)
+[![ATM7-Sky](https://img.shields.io/badge/CurseForge-AlltheMods7%20TotheSky%201.18.2-9F5F9F)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)｜[![ATM7-Sky](https://img.shields.io/badge/汉化GitHub-AlltheMods7%20TotheSky%201.2.3-9F5F9F)](https://github.com/Pasuu-Mc/ATM7-Sky-quest-CN/releases)
 
-[![All-in-One](https://img.shields.io/badge/CurseForge-All%20in%20one%201.16.5-9F5F9F)](https://www.curseforge.com/minecraft/modpacks/all-in-one-modded-one-block)>>>>汉化文件[![All-in-one](https://img.shields.io/badge/GitHub-All%20in%20one%201.5.3-9F5F9F)](https://github.com/Pasuu-Mc/All-in-One-quest-CN) ----未公开
+[![All-in-One](https://img.shields.io/badge/CurseForge-All%20in%20one%201.16.5-9F5F9F)](https://www.curseforge.com/minecraft/modpacks/all-in-one-modded-one-block)｜[![All-in-one](https://img.shields.io/badge/汉化GitHub-All%20in%20one%201.5.3-9F5F9F)](https://github.com/Pasuu-Mc/All-in-One-quest-CN) ----未公开
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 #### 正在玩
 
-[![Chroma-sky-2](https://img.shields.io/badge/CurseForge-Chroma%20Sky2%201.16.5-T6452)](https://www.curseforge.com/minecraft/modpacks/chroma-sky-2)>>>>汉化文件[![Chroma-sky-2](https://img.shields.io/badge/GitHub-Chroma%20Sky2%201.0.9-T6452)](https://github.com/Pasuu-Mc/Chroma-sky-2-quest-CN) ----未公开
+[![Chroma-sky-2](https://img.shields.io/badge/CurseForge-Chroma%20Sky2%201.16.5-T6452)](https://www.curseforge.com/minecraft/modpacks/chroma-sky-2)｜[![Chroma-sky-2](https://img.shields.io/badge/汉化GitHub-Chroma%20Sky2%201.0.9-T6452)](https://github.com/Pasuu-Mc/Chroma-sky-2-quest-CN) ----未公开
 
 
 ---------------------------------------------------------------------------------------------------------------
