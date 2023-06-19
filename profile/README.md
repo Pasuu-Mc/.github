@@ -8,7 +8,7 @@
 
 [![ATM7-Sky](https://img.shields.io/badge/CurseForge-AlltheMods7%20TotheSky%201.18.2-9F5F9F)](https://www.curseforge.com/minecraft/modpacks/all-the-mods-7-to-the-sky)｜[![ATM7-Sky](https://img.shields.io/badge/汉化GitHub-AlltheMods7%20TotheSky%201.2.3-9F5F9F)](https://github.com/Pasuu-Mc/ATM7-Sky-quest-CN/releases)
 
-[![FTB-Presents-Integration-by-Parts-DX](https://img.shields.io/badge/FTB-PresentsIntegration%20byPartsDX%201.16.5-9F5F9F)](https://feed-the-beast.com/modpacks/107-ftb-presents-integration-by-parts-dx)｜[![ATM7-Sky](https://img.shields.io/badge/汉化GitHub-PresentsIntegration%20byPartsDX%201.0.2-9F5F9F)](https://github.com/Pasuu-Mc/FTB-Presents-Integration-by-Parts-DX-CN)
+[![FTB-Presents-Integration-by-Parts-DX](https://img.shields.io/badge/FTB-PresentsIntegration%20byPartsDX%201.16.5-9F5F9F)](https://feed-the-beast.com/modpacks/107-ftb-presents-integration-by-parts-dx)｜[![FTB-PresentsIntegration-integration-by-parts-dx](https://img.shields.io/badge/汉化GitHub-PresentsIntegration%20byPartsDX%201.0.3-9F5F9F)](https://github.com/Pasuu-Mc/FTB-Presents-Integration-by-Parts-DX-CN)
 
 [![All-in-One](https://img.shields.io/badge/CurseForge-All%20in%20one%201.16.5-9F5F9F)](https://www.curseforge.com/minecraft/modpacks/all-in-one-modded-one-block)｜[![All-in-one](https://img.shields.io/badge/汉化GitHub-All%20in%20one%201.5.3-9F5F9F)](https://github.com/Pasuu-Mc/All-in-One-quest-CN) ----未公开
 
