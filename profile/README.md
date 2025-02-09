@@ -1,6 +1,6 @@
 ## 个人汉化使用 
 
-##### [`Hello，这里是Pasuu的MC汉化库，请不要二次分享制作`](https://github.com/Pasuu-Mc/.github/blob/main/LICENSE)
+##### [`Hello，这里是Pasuu的MC汉化库，请不要二次分享`](https://github.com/Pasuu-Mc/.github/blob/main/LICENSE)
 
 ##### `找不到想要的汉化？不妨来看看我做的网站吧！`    [点此进入](https://Modpack.top)
 ---------------------------------------------------------------------------------------------------------------
